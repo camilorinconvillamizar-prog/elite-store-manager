@@ -1,0 +1,10 @@
+streamlit
+pandas
+sqlalchemy
+psycopg2-binary
+supabase
+python-dotenv
+reportlab
+plotly
+openpyxl
+google-generativeai

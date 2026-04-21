@@ -1,0 +1,8 @@
+# Entornos y Secretos
+.env
+__pycache__/
+*.pyc
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
